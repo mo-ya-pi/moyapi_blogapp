@@ -1,7 +1,7 @@
 class HomeController < ApplicationController
     def index
         # render 'home/index'
-        @title = 'デイトラ'
+        @title = "デイトラ"
     end
 
     def about

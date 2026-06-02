@@ -69,3 +69,5 @@ end
 gem 'rspec-rails', '~> 8.0'
 
 gem 'cssbundling-rails', '~> 1.4'
+
+gem "devise", "~> 5.0"
